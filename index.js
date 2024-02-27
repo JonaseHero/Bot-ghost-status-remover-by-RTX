@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Homberg County RP","Support"];
+const statusMessages = ["Homberg County RP","ERLC Homberg County"];
 
 
 let currentIndex = 0;
