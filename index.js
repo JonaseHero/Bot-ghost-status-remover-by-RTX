@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["Homberg County RP","Bank of Homberg","Made by JonaseHero"];
 
 
 let currentIndex = 0;
